@@ -1,6 +1,4 @@
 <h1 align="center">armales</h1> 
-
-![](https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif)
 <h3 align="center">Full-stack Javascript Developer</h3>
 <p>Hello! I am a developer for an online school application, passionate about creating effective digital solutions in education. I’m excited to connect with like-minded professionals and exchange ideas in a beautiful and engaging format.</p>
 <h3>Languages</h3>
