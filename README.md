@@ -10,3 +10,7 @@
 <h3>Databases</h3>
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<h3>My Stats</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=miles101armales)](https://git.io/streak-stats)
