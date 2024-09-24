@@ -13,4 +13,4 @@
 
 <h3>My Stats</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miles101armales&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miles101armales&theme=github_dark)
