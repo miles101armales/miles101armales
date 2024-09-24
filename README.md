@@ -13,4 +13,4 @@
 
 <h3>My Stats</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miles101armales)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miles101armales&theme=solarized_dark)
