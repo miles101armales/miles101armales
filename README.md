@@ -13,4 +13,4 @@
 
 <h3>My Stats</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=miles101armales)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miles101armales)](https://git.io/streak-stats)
