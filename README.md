@@ -13,4 +13,4 @@
 
 <h3>ᴍʏ ꜱᴛᴀᴛꜱ</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miles101armales&theme=github_dark)  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miles101armales&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ovi" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miles101armales&theme=github_dark)  <img src="https://www.codewars.com/users/armales/badges/large" alt="ovi" />
