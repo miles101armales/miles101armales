@@ -12,5 +12,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h3>ᴍʏ ꜱᴛᴀᴛꜱ</h3>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miles101armales&theme=github_dark)  <img src="https://www.codewars.com/users/armales/badges/large" alt="ovi" />
+<h4>ɢɪᴛʜᴜʙ</h4>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miles101armales&theme=github_dark)
+<h4>ᴄᴏᴅᴇᴡᴀʀꜱ</h4>
+<img src="https://www.codewars.com/users/armales/badges/large" alt="ovi" />
