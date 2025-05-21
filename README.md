@@ -13,6 +13,6 @@
 
 <h3>ᴍʏ ꜱᴛᴀᴛꜱ</h3>
 <h4>ɢɪᴛʜᴜʙ</h4>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miles101armales&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miles101armales&theme=github_dark" alt="GitHub Stats" />
 <h4>ᴄᴏᴅᴇᴡᴀʀꜱ</h4>
 <img src="https://www.codewars.com/users/armales/badges/large" alt="ovi" />
