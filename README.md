@@ -1,7 +1,8 @@
 <h1 align="center">ᴀʀᴍᴀʟᴇꜱ</h1> 
 <h3 align="center">ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
 <p>Hello! I am a developer for an online school application, passionate about creating effective digital solutions in education. I’m excited to connect with like-minded professionals and exchange ideas in a beautiful and engaging format.</p>
-![](https://github.com/miles101armales/miles101armales/blob/main/download.gif)
+
+![MY](https://github.com/miles101armales/miles101armales/blob/main/download.gif)
 
 <h3>ʟᴀɴɢᴜᴀɢᴇꜱ</h3>
 
