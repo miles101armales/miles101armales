@@ -1,13 +1,19 @@
 <h1 align="center">ᴀʀᴍᴀʟᴇꜱ</h1>
 <h3 align="center">ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
 
-<p align="center">
-  Hello! I am a developer for an online school application, passionate about creating effective digital solutions in education. I’m excited to connect with like-minded professionals and exchange ideas in a beautiful and engaging format.
-</p>
-
-<p align="center">
-  <img src="https://github.com/miles101armales/miles101armales/blob/main/mrobot.gif" alt="MY" />
-</p>
+<table border="0" cellspacing="0" cellpadding="0" role="presentation">
+  <tr>
+    <td style="border:0; padding:0">
+      <img src="https://github.com/miles101armales/miles101armales/blob/main/mrobot.gif" alt="MY" width="480" />
+    </td>
+    <td align="center" valign="middle" style="border:0; padding:0 12px">
+      <p style="margin:0">
+        Hello! I am a developer for an online school application, passionate about creating effective digital solutions in education.
+        I’m excited to connect with like-minded professionals and exchange ideas in a beautiful and engaging format.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">ʟᴀɴɢᴜᴀɢᴇꜱ</h3>
 <p align="center">
