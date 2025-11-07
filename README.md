@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/miles101armales/miles101armales/blob/main/download.gif" alt="MY" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fseason-1-gif-find-share-on-giphy--671177150748147546%2F&psig=AOvVaw0uftxahH_VRxRM-SvOVhhI&ust=1762590466824000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCJjR2KnP35ADFQAAAAAdAAAAABCJAQ" alt="MY" />
 </p>
 
 <h3 align="center">ʟᴀɴɢᴜᴀɢᴇꜱ</h3>
